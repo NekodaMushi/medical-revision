@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "question": "Quel est le principal rôle d'un ASV en clinique vétérinaire?",
+    "answer": "Stériliser les instruments chirurgicaux et maintenir l'hygiène."
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la méthode la plus courante de stérilisation des instruments?",
+    "answer": "L'utilisation de l'autoclave."
+  },
+  {
+    "id": 3,
+    "question": "Nommez un type de stérilisation autre que la vapeur.",
+    "answer": "Stérilisation par chaleur sèche ou par gaz."
+  },
+  {
+    "id": 4,
+    "question": "Quelle est l'importance de connaître l'anatomie animale pour un ASV?",
+    "answer": "Pour mieux comprendre l'utilisation et le soin des instruments chirurgicaux."
+  },
+  {
+    "id": 5,
+    "question": "Quel type de déchet un ASV doit-il savoir gérer?",
+    "answer": "Déchets biomédicaux."
+  },
+  {
+    "id": 6,
+    "question": "Quelle compétence est essentielle pour communiquer avec les propriétaires d'animaux?",
+    "answer": "Compétences en communication et gestion de la clientèle."
+  },
+  {
+    "id": 7,
+    "question": "Pourquoi la pharmacologie est-elle importante pour un ASV?",
+    "answer": "Pour comprendre l'impact des médicaments sur les processus de stérilisation."
+  },
+  {
+    "id": 8,
+    "question": "Nommez une mesure de prévention des infections en clinique vétérinaire.",
+    "answer": "Protocoles de nettoyage et de désinfection réguliers."
+  },
+  {
+    "id": 9,
+    "question": "Qu'est-ce qu'un protocole environnemental pour un ASV?",
+    "answer": "Procédures pour réduire l'impact environnemental des déchets cliniques."
+  },
+  {
+    "id": 10,
+    "question": "Quel est un aspect important de la gestion des instruments chirurgicaux?",
+    "answer": "Leur nettoyage et leur maintenance appropriés."
+  },
+  {
+    "id": 11,
+    "question": "Quelle loi ou réglementation un ASV doit-il connaître?",
+    "answer": "Réglementations locales sur la pratique vétérinaire et la gestion des déchets."
+  },
+  {
+    "id": 12,
+    "question": "Quelle est une compétence de base en premiers secours pour les animaux?",
+    "answer": "Savoir comment stabiliser un animal en urgence."
+  },
+  {
+    "id": 13,
+    "question": "Pourquoi les pratiques de travail sécuritaires sont-elles importantes pour un ASV?",
+    "answer": "Pour prévenir les accidents et assurer la sécurité de tous."
+  },
+  {
+    "id": 14,
+    "question": "Comment un ASV contribue-t-il au contrôle des infections?",
+    "answer": "En stérilisant correctement les instruments et en maintenant un environnement propre."
+  },
+  {
+    "id": 15,
+    "question": "Qu'est-ce qu'une autoclave?",
+    "answer": "Un appareil utilisé pour stériliser les instruments en utilisant de la vapeur sous pression."
+  },
+  {
+    "id": 16,
+    "question": "Quel est le processus pour nettoyer un instrument chirurgical?",
+    "answer": "Retirer les débris, laver, désinfecter et stériliser."
+  },
+  {
+    "id": 17,
+    "question": "Quelle est l'importance de connaître la pharmacologie vétérinaire?",
+    "answer": "Pour comprendre les effets des médicaments sur les animaux et les procédures."
+  },
+  {
+    "id": 18,
+    "question": "Quel type de compétence interpersonnelle est important pour un ASV?",
+    "answer": "La capacité à travailler en équipe avec le personnel vétérinaire."
+  },
+  {
+    "id": 19,
+    "question": "Qu'est-ce que la stérilisation par gaz implique?",
+    "answer": "L'utilisation de gaz comme l'oxyde d'éthylène pour stériliser les équipements sensibles à la chaleur."
+  },
+  {
+    "id": 20,
+    "question": "Pourquoi est-il important de stériliser les instruments chirurgicaux?",
+    "answer": "Pour prévenir les infections croisées et garantir la sécurité des patients."
+  },
+  {
+    "id": 21,
+    "question": "Comment un ASV doit-il gérer les instruments tranchants?",
+    "answer": "Avec une attention particulière pour éviter les blessures et les contaminations."
+  },
+  {
+    "id": 22,
+    "question": "Quelle est une procédure standard pour la stérilisation à la vapeur?",
+    "answer": "Utiliser un autoclave à une température et une pression spécifiques pendant un temps déterminé."
+  },
+  {
+    "id": 23,
+    "question": "Quelle est l'importance des protocoles de nettoyage en clinique vétérinaire?",
+    "answer": "Ils sont essentiels pour maintenir un environnement aseptique et sécuritaire."
+  },
+  {
+    "id": 24,
+    "question": "Quel rôle joue la réglementation dans le travail d'un ASV?",
+    "answer": "Elle détermine les normes de pratique et de sécurité à suivre."
+  },
+  {
+    "id": 25,
+    "question": "Comment un ASV doit-il procéder avec les déchets médicaux tranchants?",
+    "answer": "Les placer dans des conteneurs résistants aux perforations."
+  },
+  {
+    "id": 26,
+    "question": "Qu'est-ce qu'un protocole de stérilisation efficace?",
+    "answer": "Un ensemble de procédures pour éliminer tous les micro-organismes des instruments."
+  },
+  {
+    "id": 27,
+    "question": "Pourquoi est-il important de suivre les directives environnementales?",
+    "answer": "Pour minimiser l'impact écologique des déchets cliniques."
+  },
+  {
+    "id": 28,
+    "question": "Quel est l'objectif de l'éthique vétérinaire dans le travail d'un ASV?",
+    "answer": "Assurer le bien-être animal et le respect des normes professionnelles."
+  },
+  {
+    "id": 29,
+    "question": "Quelle est une méthode alternative à l'autoclave pour la stérilisation?",
+    "answer": "L'utilisation de stérilisateurs à chaleur sèche."
+  },
+  {
+    "id": 30,
+    "question": "Comment un ASV doit-il réagir en cas d'urgence médicale?",
+    "answer": "En fournissant des soins de premiers secours et en assistant le vétérinaire."
+  },
+  {
+    "id": 31,
+    "question": "Quelle est l'importance de la maintenance régulière des autoclaves?",
+    "answer": "Pour garantir leur bon fonctionnement et l'efficacité de la stérilisation."
+  },
+  {
+    "id": 32,
+    "question": "Comment peut-on éliminer les déchets biomédicaux?",
+    "answer": "En les incinérant ou en les confiant à des entreprises spécialisées."
+  },
+  {
+    "id": 33,
+    "question": "Quelle est la différence entre désinfection et stérilisation?",
+    "answer": "La désinfection élimine la plupart des micro-organismes, tandis que la stérilisation les élimine tous."
+  },
+  {
+    "id": 34,
+    "question": "Quel est un exemple de compétence non technique importante pour un ASV?",
+    "answer": "La gestion du stress et la capacité à rester calme en situation d'urgence."
+  },
+  {
+    "id": 35,
+    "question": "Pourquoi la formation continue est-elle importante pour un ASV?",
+    "answer": "Pour rester à jour avec les dernières techniques et réglementations."
+  },
+  {
+    "id": 36,
+    "question": "Qu'est-ce qu'une procédure opératoire standard (POS) en milieu vétérinaire?",
+    "answer": "Un document détaillant les étapes spécifiques à suivre pour des tâches ou des procédures."
+  },
+  {
+    "id": 37,
+    "question": "Comment un ASV doit-il manipuler les animaux pendant les procédures?",
+    "answer": "Avec douceur, en suivant les techniques de manipulation sécuritaire."
+  },
+  {
+    "id": 38,
+    "question": "Quel rôle jouent les compétences organisationnelles pour un ASV?",
+    "answer": "Elles sont cruciales pour gérer efficacement le flux de travail et les ressources matérielles."
+  },
+  {
+    "id": 39,
+    "question": "Pourquoi est-il important de connaître les différentes races d'animaux?",
+    "answer": "Pour adapter les soins et la manipulation à leurs besoins spécifiques."
+  },
+  {
+    "id": 40,
+    "question": "Qu'est-ce qu'un plan de gestion des urgences en clinique vétérinaire?",
+    "answer": "Un ensemble de procédures à suivre en cas d'événements imprévus ou de crises."
+  }
+]
